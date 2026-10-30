@@ -1,5 +1,6 @@
- <!--
-  RolandCipher — Personal Technology & Development Portfolio
+ 
+<!--
+  RolandCipher — Technology, Data & Systems Portfolio
   GitHub: https://github.com/rolandcipher
 -->
 
@@ -10,7 +11,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=5089A9&center=true&vCenter=true&width=720&lines=Analysis+%C2%B7+Technology+%C2%B7+Creativity;Exploring+technology+through+practical+projects;Python+%C2%B7+Linux+%C2%B7+Git+%C2%B7+Streamlit;Data+Analysis+%C2%B7+Financial+Modeling;Systems+Thinking+%C2%B7+Problem+Solving;Turning+ideas+into+practical+solutions." alt="Analysis, technology, Python, Linux, financial modeling and problem solving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=5089A9&center=true&vCenter=true&width=720&lines=Analysis+%C2%B7+Technology+%C2%B7+Systems+Thinking;Software+Development+%C2%B7+Data+Analysis;Python+%C2%B7+Linux+%C2%B7+Git+%C2%B7+Streamlit;Financial+Modeling+%C2%B7+Business+Intelligence;Exploring+ideas+through+practical+projects;Turning+complex+problems+into+practical+solutions." alt="Analysis, technology, software development, data analysis and systems thinking" />
 </p>
 
 <p align="center">
@@ -47,54 +48,57 @@
 
 ## 01 — About
 
-I'm an independent technology enthusiast interested in the intersection of analytical thinking, software development, data, and practical problem-solving.
+I'm an independent developer and analytical thinker interested in understanding complex problems and exploring how technology can turn ideas into practical solutions.
 
-I enjoy understanding how things work, identifying relationships between different variables, and exploring how technology can be used to solve real-world problems.
+My work and learning interests bring together software development, data analysis, financial modeling, and business systems.
+
+I enjoy approaching problems from different perspectives: understanding how a system works, examining the information behind it, identifying relationships between variables, and developing tools that make complex situations easier to understand.
 
 My approach is based on a few principles:
 
 - Understand the problem before choosing the solution.
 - Analyze information before drawing conclusions.
 - Build practical tools instead of focusing only on theory.
-- Connect different disciplines to find better approaches.
+- Connect different disciplines to discover new approaches.
 - Value clarity, functionality, and maintainability.
-- Keep learning through experimentation and independent projects.
+- Learn through experimentation, documentation, and independent projects.
+- Treat technology as a means to understand and improve real-world systems.
 
-I'm particularly interested in the relationship between software, financial analysis, business intelligence, and automation.
+I'm particularly interested in the relationship between software, analytical methods, financial intelligence, business processes, and automation.
 
-I believe technology becomes more valuable when it helps people understand complex situations and make better decisions.
+I believe technology becomes more valuable when it helps people understand complex situations, interpret information, and make better decisions.
 
-### Areas of interest
+### Areas of focus
 
 | Domain | Focus |
 |:---|:---|
-| **Software Development** | Practical applications and digital tools |
-| **Data Analysis** | Information processing, interpretation and visualization |
-| **Financial Modeling** | Financial projections, simulations and scenario analysis |
-| **Business Intelligence** | Understanding business performance through data |
-| **Automation** | Improving workflows and repetitive processes |
-| **Systems Thinking** | Understanding structures, dependencies and interactions |
-| **Artificial Intelligence** | Exploring practical applications and integrations |
+| **Software Development** | Building practical applications, tools, and digital solutions |
+| **Data Analysis** | Processing, exploring, interpreting, and visualizing information |
+| **Financial Modeling** | Financial projections, simulations, and scenario analysis |
+| **Business Intelligence** | Understanding performance through operational and financial data |
+| **Automation** | Improving workflows and reducing repetitive processes |
+| **Systems Thinking** | Understanding structures, dependencies, and interactions |
+| **Applied Technology** | Exploring how technical and analytical methods can address different real-world problems |
 
 ---
 
 ## 02 — Projects
 
-A growing collection of independent projects and technical experiments.
+A growing collection of independent projects, practical applications, and technical experiments.
 
-My objective is to develop practical solutions that combine analytical thinking, functionality, and technology.
+My objective is to develop solutions that combine analytical thinking, functional design, and technology.
 
 ### 01 · Finance Lab
 
-<sub>ACTIVE PROJECT · PYTHON · STREAMLIT</sub>
+<sub>ACTIVE PROJECT · PYTHON · STREAMLIT · FINANCIAL MODELING</sub>
 
 An interactive financial simulator designed to explore business performance, financial projections, and alternative economic scenarios.
 
 **Main objectives:**
 
-- Model revenue, costs, expenses and profitability.
+- Model revenue, costs, expenses, and profitability.
 - Analyze cash flow and financial performance.
-- Compare different financial scenarios.
+- Compare alternative financial scenarios.
 - Explore break-even points and sensitivity analysis.
 - Present financial information through interactive visualizations.
 - Transform numerical information into useful insights.
@@ -110,15 +114,15 @@ An interactive financial simulator designed to explore business performance, fin
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
-**Status:** Initial development and expansion of the financial model.
+**Status:** Initial development, financial model design, and implementation.
 
 ---
 
 ### 02 · Data Intelligence
 
-<sub>FUTURE PROJECT · DATA ANALYSIS · VISUALIZATION</sub>
+<sub>FUTURE PROJECT · DATA ANALYSIS · EXPLORATORY ANALYTICS</sub>
 
-An exploration of data analysis techniques through practical datasets and interactive visualizations.
+A practical environment for exploring datasets, applying analytical techniques, and transforming raw information into interpretable results.
 
 **Planned capabilities:**
 
@@ -128,6 +132,7 @@ An exploration of data analysis techniques through practical datasets and intera
 - Data visualization.
 - Trend and pattern identification.
 - Comparative analysis.
+- Reproducible analytical workflows.
 
 **Technology direction:**
 
@@ -137,7 +142,7 @@ An exploration of data analysis techniques through practical datasets and intera
 
 ### 03 · Business Intelligence Toolkit
 
-<sub>FUTURE PROJECT · BUSINESS ANALYTICS</sub>
+<sub>FUTURE PROJECT · BUSINESS ANALYTICS · DECISION SUPPORT</sub>
 
 A collection of analytical tools focused on understanding business performance through operational, commercial, and financial information.
 
@@ -149,6 +154,7 @@ A collection of analytical tools focused on understanding business performance t
 - Cash flow monitoring.
 - Operational performance analysis.
 - Management reporting.
+- Data-driven decision support.
 
 **Technology direction:**
 
@@ -178,7 +184,7 @@ Practical experiments involving Linux environments, scripting, workflow optimiza
 
 ---
 
-*More projects will be added as development progresses.*
+*Projects will evolve as new skills are acquired and new problems are explored.*
 
 ---
 
@@ -186,16 +192,18 @@ Practical experiments involving Linux environments, scripting, workflow optimiza
 
 My technical ecosystem is evolving through independent learning, practical experimentation, and project development.
 
+I distinguish between the tools I currently use, those involved in active projects, and technologies I intend to explore.
+
 ### Current environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,debian,bash,git,github,python,html,css,js,sqlite&perline=5" alt="Linux, Debian, Bash, Git, GitHub, Python, HTML, CSS, JavaScript and SQLite"/>
 </p>
 
-### Current project ecosystem
+### Active project ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,sqlite&perline=5" alt="Python, Git, GitHub and SQLite"/>
+  <img src="https://skillicons.dev/icons?i=python,streamlit,pandas,numpy,git,github,sqlite&perline=5" alt="Python, Streamlit, Pandas, NumPy, Git, GitHub and SQLite"/>
 </p>
 
 ### Technologies to explore
@@ -234,8 +242,9 @@ My technical ecosystem is evolving through independent learning, practical exper
 - Data visualization.
 - Decision-support tools.
 - Analytical workflows.
+- Evidence-based reasoning.
 
-### Financial Technology
+### Financial Technology & Business Intelligence
 
 - Financial modeling.
 - Cash flow analysis.
@@ -243,6 +252,7 @@ My technical ecosystem is evolving through independent learning, practical exper
 - Financial projections.
 - Scenario simulation.
 - Business performance indicators.
+- Operational and commercial analytics.
 
 ### Software Development
 
@@ -252,6 +262,7 @@ My technical ecosystem is evolving through independent learning, practical exper
 - Database design.
 - API development.
 - Software quality and testing.
+- Practical user-oriented solutions.
 
 ### Systems & Infrastructure
 
@@ -261,6 +272,7 @@ My technical ecosystem is evolving through independent learning, practical exper
 - Networking fundamentals.
 - Security principles.
 - Deployment and troubleshooting.
+- Open-source ecosystems.
 
 ### Artificial Intelligence
 
@@ -269,6 +281,7 @@ My technical ecosystem is evolving through independent learning, practical exper
 - Intelligent automation.
 - Data-driven applications.
 - Practical AI use cases.
+- Human-centered applications of AI.
 
 ---
 
@@ -286,13 +299,15 @@ I prefer lightweight environments and tools that offer control over the workflow
 | Documentation | Markdown |
 | Organization | Tasks, Kanban, Dataview |
 
-I value open-source software, structured workflows, and the ability to understand and customize the tools I use.
+I value open-source software, structured workflows, reproducibility, and the ability to understand and customize the tools I use.
+
+My development environment is also a space for experimentation, documentation, and continuous improvement.
 
 ---
 
 ## 06 — Learning Roadmap
 
-My roadmap is intentionally broader than my current technical environment. The goal is to build a solid foundation through projects that demonstrate practical understanding.
+My roadmap is broader than my current technical environment. The objective is to build a solid foundation through practical projects, independent learning, and progressively more complex challenges.
 
 | Track | Technologies / Concepts | Direction |
 |:---|:---|:---|
@@ -310,9 +325,13 @@ My roadmap is intentionally broader than my current technical environment. The g
 
 ### Long-term direction
 
-**Software Development + Data Analysis + Financial Intelligence + Automation + Artificial Intelligence**
+**Software Development + Data Analysis + Systems Thinking + Scientific and Applied Research**
 
-The goal is to build solutions that are not only functional, but also useful, understandable, maintainable, and capable of supporting real decisions.
+My long-term goal is to continue expanding the fields in which I can apply technological and analytical knowledge.
+
+I am particularly interested in how software development, data analysis, and systems thinking can contribute to understanding complex problems across different domains.
+
+As my education and experience evolve, I intend to explore new areas of application, progressively broadening the relationship between technology, scientific knowledge, and research.
 
 ---
 
@@ -335,7 +354,9 @@ The goal is to build solutions that are not only functional, but also useful, un
 
 ## 08 — Connect
 
-I'm interested in connecting with people working across software development, data analysis, financial technology, business intelligence, and applied technology.
+I'm interested in connecting with people working across software development, data analysis, financial technology, business intelligence, automation, and applied technology.
+
+I value knowledge sharing, interdisciplinary thinking, collaborative projects, and the exchange of ideas.
 
 <p align="center">
   <a href="https://github.com/rolandcipher">
