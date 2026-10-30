@@ -1,6 +1,5 @@
- 
 <!--
-  RolandCipher — Technology, Data & Systems Portfolio
+  RolandCipher — Data, Technology & Systems
   GitHub: https://github.com/rolandcipher
 -->
 
@@ -11,11 +10,11 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=5089A9&center=true&vCenter=true&width=720&lines=Analysis+%C2%B7+Technology+%C2%B7+Systems+Thinking;Software+Development+%C2%B7+Data+Analysis;Python+%C2%B7+Linux+%C2%B7+Git+%C2%B7+Streamlit;Financial+Modeling+%C2%B7+Business+Intelligence;Exploring+ideas+through+practical+projects;Turning+complex+problems+into+practical+solutions." alt="Analysis, technology, software development, data analysis and systems thinking" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=5089A9&center=true&vCenter=true&width=720&lines=Data+%C2%B7+Design+%C2%B7+Systems;Python+%C2%B7+SQL+%C2%B7+Linux+%C2%B7+Git;Financial+Modeling+%C2%B7+Business+Intelligence;Data+Cleaning+%C2%B7+Reporting+%C2%B7+Automation;Built%2C+tested+and+documented+in+the+open" alt="Data, design, systems, Python, SQL, Linux, Git, financial modeling, business intelligence, automation" />
 </p>
 
 <p align="center">
-  I combine analysis, technology, and creativity to solve problems and turn ideas into practical solutions.
+  I build small, working tools that turn raw data into clear answers: financial models, dashboards, reports and automations.
 </p>
 
 <p align="center">
@@ -36,11 +35,9 @@
     <a href="#01--about">About</a> ·
     <a href="#02--projects">Projects</a> ·
     <a href="#03--technology">Technology</a> ·
-    <a href="#04--interests">Interests</a> ·
-    <a href="#05--environment">Environment</a> ·
-    <a href="#06--roadmap">Roadmap</a> ·
-    <a href="#07--github-activity">Activity</a> ·
-    <a href="#08--connect">Connect</a>
+    <a href="#04--environment">Environment</a> ·
+    <a href="#05--github-activity">Activity</a> ·
+    <a href="#06--connect">Connect</a>
   </sub>
 </p>
 
@@ -48,294 +45,163 @@
 
 ## 01 — About
 
-I'm an independent developer and analytical thinker interested in understanding complex problems and exploring how technology can turn ideas into practical solutions.
+I've worked with data and design for 20+ years, and for more than 15 of them Excel has been at the center: databases, pivot tables, sales statistics and cash-flow models built for real businesses. Now I'm taking that experience into Python, SQL and Linux, and this is where all of that work lives.
 
-My work and learning interests bring together software development, data analysis, financial modeling, and business systems.
+**How I work**
 
-I enjoy approaching problems from different perspectives: understanding how a system works, examining the information behind it, identifying relationships between variables, and developing tools that make complex situations easier to understand.
+- **Start from the real problem.** Every project below begins with a question someone actually needs answered.
+- **Keep it reproducible.** Each repository has sample data, setup steps and instructions to run it.
+- **Test what matters.** Calculations and cleaning rules are checked, not assumed.
+- **Keep it simple.** The smallest tool that solves the problem wins.
 
-My approach is based on a few principles:
-
-- Understand the problem before choosing the solution.
-- Analyze information before drawing conclusions.
-- Build practical tools instead of focusing only on theory.
-- Connect different disciplines to discover new approaches.
-- Value clarity, functionality, and maintainability.
-- Learn through experimentation, documentation, and independent projects.
-- Treat technology as a means to understand and improve real-world systems.
-
-I'm particularly interested in the relationship between software, analytical methods, financial intelligence, business processes, and automation.
-
-I believe technology becomes more valuable when it helps people understand complex situations, interpret information, and make better decisions.
-
-### Areas of focus
-
-| Domain | Focus |
+| | |
 |:---|:---|
-| **Software Development** | Building practical applications, tools, and digital solutions |
-| **Data Analysis** | Processing, exploring, interpreting, and visualizing information |
-| **Financial Modeling** | Financial projections, simulations, and scenario analysis |
-| **Business Intelligence** | Understanding performance through operational and financial data |
-| **Automation** | Improving workflows and reducing repetitive processes |
-| **Systems Thinking** | Understanding structures, dependencies, and interactions |
-| **Applied Technology** | Exploring how technical and analytical methods can address different real-world problems |
+| **What I do** | Data cleaning · reporting · reconciliation · financial models · automation |
+| **Also** | Graphic design and illustration |
+| **Languages** | Spanish (native) · English (C2, EF SET) |
+| **Based in** | Argentina · working remotely |
 
 ---
 
 ## 02 — Projects
 
-A growing collection of independent projects, practical applications, and technical experiments.
+Each project solves one concrete problem and ships with its own README, sample data and run instructions.
 
-My objective is to develop solutions that combine analytical thinking, functional design, and technology.
+### 01 · [Finance Lab](https://github.com/rolandcipher/finance-lab)
 
-### 01 · Finance Lab
+<sub>PYTHON · STREAMLIT · PLOTLY · FINANCIAL MODELING</sub>
 
-<sub>ACTIVE PROJECT · PYTHON · STREAMLIT · FINANCIAL MODELING</sub>
+Interactive simulator for a small business: enter revenue, costs and expenses, and watch profit, cash flow and break-even move as you change the assumptions.
 
-An interactive financial simulator designed to explore business performance, financial projections, and alternative economic scenarios.
+- Monthly profit-and-loss and cash-flow projection
+- Break-even point and sensitivity analysis
+- Side-by-side comparison of base, optimistic and pessimistic scenarios
 
-**Main objectives:**
-
-- Model revenue, costs, expenses, and profitability.
-- Analyze cash flow and financial performance.
-- Compare alternative financial scenarios.
-- Explore break-even points and sensitivity analysis.
-- Present financial information through interactive visualizations.
-- Transform numerical information into useful insights.
-
-**Technology direction:**
-
-`Python` · `Streamlit` · `Pandas` · `NumPy` · `Plotly`
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
-</p>
-
-**Status:** Initial development, financial model design, and implementation.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
 
 ---
 
-### 02 · Data Intelligence
+### 02 · [Data Intelligence](https://github.com/rolandcipher/data-intelligence)
 
-<sub>FUTURE PROJECT · DATA ANALYSIS · EXPLORATORY ANALYTICS</sub>
+<sub>PYTHON · PANDAS · SQL · EXPLORATORY ANALYSIS</sub>
 
-A practical environment for exploring datasets, applying analytical techniques, and transforming raw information into interpretable results.
+A reproducible pipeline that takes a messy dataset to clean tables, SQL queries and charts, keeping the raw data untouched.
 
-**Planned capabilities:**
+- Documented cleaning rules: duplicates, formats, missing values
+- SQLite database with queries that answer business questions
+- Exploratory analysis with summary statistics and visualizations
 
-- Data cleaning and transformation.
-- Exploratory data analysis.
-- Statistical summaries.
-- Data visualization.
-- Trend and pattern identification.
-- Comparative analysis.
-- Reproducible analytical workflows.
-
-**Technology direction:**
-
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `SQL`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
 
 ---
 
-### 03 · Business Intelligence Toolkit
+### 03 · [Business Intelligence Toolkit](https://github.com/rolandcipher/bi-toolkit)
 
-<sub>FUTURE PROJECT · BUSINESS ANALYTICS · DECISION SUPPORT</sub>
+<sub>PYTHON · SQL · STREAMLIT · KPI DASHBOARD</sub>
 
-A collection of analytical tools focused on understanding business performance through operational, commercial, and financial information.
+A dashboard that turns sales, cost and cash data into the indicators a manager actually checks.
 
-**Planned capabilities:**
+- KPI cards for revenue, margin and cash position
+- Trends and period-over-period comparison
+- Exportable management report
 
-- KPI monitoring.
-- Revenue and cost analysis.
-- Profitability indicators.
-- Cash flow monitoring.
-- Operational performance analysis.
-- Management reporting.
-- Data-driven decision support.
-
-**Technology direction:**
-
-`Python` · `SQL` · `Streamlit` · `Data Visualization`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
 
 ---
 
-### 04 · Automation & Systems
+### 04 · [Inventory & Reconciliation](https://github.com/rolandcipher/inventory-reconciliation)
 
-<sub>ONGOING EXPLORATION · LINUX · AUTOMATION</sub>
+<sub>EXCEL · PYTHON · DATA QUALITY</sub>
 
-Practical experiments involving Linux environments, scripting, workflow optimization, and system configuration.
+An inventory workbook plus a script that checks it against movements and invoices and lists every difference.
 
-**Areas of exploration:**
+- Stock in/out tracking with formulas and input validation
+- Python check that matches records and flags mismatches
+- Reusable template documented for small businesses
 
-- Linux administration.
-- Shell scripting.
-- Workflow automation.
-- API integrations.
-- System configuration.
-- Networking fundamentals.
-- Technical troubleshooting.
-
-**Technology direction:**
-
-`Debian` · `Linux` · `Bash` · `Python` · `Git` · `APIs`
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 
 ---
 
-*Projects will evolve as new skills are acquired and new problems are explored.*
+### 05 · [Data Utilities CLI](https://github.com/rolandcipher/data-utils-cli)
+
+<sub>PYTHON · PYTEST · GIT · COMMAND LINE</sub>
+
+Small command-line tools to validate and clean CSV and Excel files before they reach a report.
+
+- Commands for validating, cleaning and summarizing files
+- Automated test suite with pytest
+- Installation and usage examples
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+
+---
+
+### 06 · [Automation & Systems](https://github.com/rolandcipher/automation-systems)
+
+<sub>BASH · PYTHON · LINUX · DEBIAN</sub>
+
+The scripts I use to automate recurring work on Debian, each one documented and ready to reuse.
+
+- Backups and file organization
+- Batch processing and report generation
+- Usage examples for every script
+
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian"/>
+
+---
+
+### 07 · [Core](https://github.com/rolandcipher/core)
+
+<sub>HTML · CSS · JAVASCRIPT · PORTFOLIO SITE</sub>
+
+The site that brings everything together: projects, write-ups and links in one place.
+
+- Every project with its problem, approach and result
+- Fast, lightweight, no frameworks
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 ---
 
 ## 03 — Technology
 
-My technical ecosystem is evolving through independent learning, practical experimentation, and project development.
-
-I distinguish between the tools I currently use, those involved in active projects, and technologies I intend to explore.
-
-### Current environment
+### Daily tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,debian,bash,git,github,python,html,css,js,sqlite&perline=5" alt="Linux, Debian, Bash, Git, GitHub, Python, HTML, CSS, JavaScript and SQLite"/>
 </p>
 
-### Active project ecosystem
+### Used in my projects
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,streamlit,pandas,numpy,git,github,sqlite&perline=5" alt="Python, Streamlit, Pandas, NumPy, Git, GitHub and SQLite"/>
 </p>
 
-### Technologies to explore
+### Exploring next
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,fastapi,flask,postgres,docker,mongodb&perline=5" alt="TypeScript, React, FastAPI, Flask, PostgreSQL, Docker and MongoDB"/>
 </p>
 
-### Technology domains
-
-| Domain | Technologies and concepts |
-|:---|:---|
-| **Programming** | Python, JavaScript, TypeScript |
-| **Web Development** | HTML, CSS, React |
-| **Data Analysis** | Pandas, NumPy, statistics |
-| **Visualization** | Matplotlib, Plotly |
-| **Application Development** | Streamlit, FastAPI, Flask |
-| **Databases** | SQLite, SQL, PostgreSQL, MySQL |
-| **Operating Systems** | Linux, Debian |
-| **Automation** | Bash, Python scripting |
-| **Version Control** | Git, GitHub |
-| **Infrastructure** | Docker, APIs, deployment |
-| **Artificial Intelligence** | AI-assisted development and API integrations |
-
-*This section combines my current environment, technologies used in active projects, and areas I intend to explore. It does not imply equal proficiency across all listed technologies.*
+*Technologies under "Exploring next" are what I'm learning, not what I claim to master.*
 
 ---
 
-## 04 — Technical Interests
+## 04 — Environment
 
-### Analytical Thinking & Data
+I prefer lightweight tools that give me control over the workflow.
 
-- Data interpretation.
-- Exploratory data analysis.
-- Statistical reasoning.
-- Data visualization.
-- Decision-support tools.
-- Analytical workflows.
-- Evidence-based reasoning.
-
-### Financial Technology & Business Intelligence
-
-- Financial modeling.
-- Cash flow analysis.
-- Profitability analysis.
-- Financial projections.
-- Scenario simulation.
-- Business performance indicators.
-- Operational and commercial analytics.
-
-### Software Development
-
-- Application architecture.
-- Modular development.
-- Backend and frontend integration.
-- Database design.
-- API development.
-- Software quality and testing.
-- Practical user-oriented solutions.
-
-### Systems & Infrastructure
-
-- Linux environments.
-- System administration.
-- Automation and scripting.
-- Networking fundamentals.
-- Security principles.
-- Deployment and troubleshooting.
-- Open-source ecosystems.
-
-### Artificial Intelligence
-
-- AI-assisted development.
-- API-based integrations.
-- Intelligent automation.
-- Data-driven applications.
-- Practical AI use cases.
-- Human-centered applications of AI.
-
----
-
-## 05 — Development Environment
-
-I prefer lightweight environments and tools that offer control over the workflow.
-
-| Component | Environment |
+| Component | Setup |
 |:---|:---|
-| Operating System | Debian GNU/Linux |
-| Window Manager | i3 |
-| Knowledge Management | Obsidian |
-| Version Control | Git / GitHub |
-| Application Development | Python / Streamlit |
+| System | Debian GNU/Linux · i3 |
+| Notes & tasks | Obsidian (Kanban, Dataview) |
+| Code & versions | Python · Streamlit · Git / GitHub |
 | Documentation | Markdown |
-| Organization | Tasks, Kanban, Dataview |
-
-I value open-source software, structured workflows, reproducibility, and the ability to understand and customize the tools I use.
-
-My development environment is also a space for experimentation, documentation, and continuous improvement.
 
 ---
 
-## 06 — Learning Roadmap
-
-My roadmap is broader than my current technical environment. The objective is to build a solid foundation through practical projects, independent learning, and progressively more complex challenges.
-
-| Track | Technologies / Concepts | Direction |
-|:---|:---|:---|
-| **Programming** | Python, JavaScript, TypeScript | Application development |
-| **Data Analysis** | Pandas, NumPy, statistics | Data interpretation |
-| **Visualization** | Plotly, Matplotlib | Interactive reporting |
-| **Databases** | SQL, PostgreSQL | Data architecture |
-| **Backend** | FastAPI, Flask | APIs and services |
-| **Frontend** | HTML, CSS, React | User interfaces |
-| **Automation** | Bash, Python, APIs | Workflow engineering |
-| **Infrastructure** | Linux, Docker | Deployment and operations |
-| **Software Quality** | Testing, debugging, CI/CD | Reliability |
-| **Security** | Networking, application security | Defensive engineering |
-| **Artificial Intelligence** | AI APIs and integrations | Intelligent applications |
-
-### Long-term direction
-
-**Software Development + Data Analysis + Systems Thinking + Scientific and Applied Research**
-
-My long-term goal is to continue expanding the fields in which I can apply technological and analytical knowledge.
-
-I am particularly interested in how software development, data analysis, and systems thinking can contribute to understanding complex problems across different domains.
-
-As my education and experience evolve, I intend to explore new areas of application, progressively broadening the relationship between technology, scientific knowledge, and research.
-
----
-
-## 07 — GitHub Activity
+## 05 — GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rolandcipher&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
@@ -352,11 +218,9 @@ As my education and experience evolve, I intend to explore new areas of applicat
 
 ---
 
-## 08 — Connect
+## 06 — Connect
 
-I'm interested in connecting with people working across software development, data analysis, financial technology, business intelligence, automation, and applied technology.
-
-I value knowledge sharing, interdisciplinary thinking, collaborative projects, and the exchange of ideas.
+Open to collaboration, freelance projects and remote work in data, reporting and automation.
 
 <p align="center">
   <a href="https://github.com/rolandcipher">
@@ -376,16 +240,10 @@ Email:
 
   <h3>ROLANDCIPHER</h3>
 
-  **Engineering ideas into solutions.**
-
-  <sub>Analysis · Technology · Systems · Creativity</sub>
+  <sub>Data · Technology · Systems · Design</sub>
 
   <br/><br/>
 
-  <em>"The best solutions begin with understanding the problem."</em>
-
-  <br/><br/>
-
-  <sub>© 2026 RolandCipher · Built with curiosity and continuous learning.</sub>
+  <sub>© 2026 RolandCipher</sub>
 
 </div>
