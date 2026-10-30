@@ -1,27 +1,27 @@
  <!--
-  RolandCipher — Personal Developer & Technology Portfolio
+  RolandCipher — Personal Technology & Development Portfolio
   GitHub: https://github.com/rolandcipher
 -->
 
 <!-- ==================== HEADER ==================== -->
 
 <a href="https://github.com/rolandcipher">
-  <img src="assets/banner.svg" width="100%" alt="RolandCipher — Engineering ideas into solutions through analysis, technology and creativity." />
+  <img src="assets/banner.svg" width="100%" alt="RolandCipher — Analysis, technology and creativity." />
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=5089A9&center=true&vCenter=true&width=720&lines=Technology+Enthusiast+%C2%B7+Analytical+Thinker;Analysis+%C2%B7+Technology+%C2%B7+Creativity;Python+%C2%B7+Linux+%C2%B7+Git+%C2%B7+Streamlit;Financial+Modeling+%C2%B7+Data+Analysis;Software+Development+%C2%B7+Automation;Engineering+ideas+into+practical+solutions." alt="Technology · Analysis · Python · Linux · Financial Modeling · Software Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=5089A9&center=true&vCenter=true&width=720&lines=Analysis+%C2%B7+Technology+%C2%B7+Creativity;Exploring+technology+through+practical+projects;Python+%C2%B7+Linux+%C2%B7+Git+%C2%B7+Streamlit;Data+Analysis+%C2%B7+Financial+Modeling;Systems+Thinking+%C2%B7+Problem+Solving;Turning+ideas+into+practical+solutions." alt="Analysis, technology, Python, Linux, financial modeling and problem solving" />
 </p>
 
 <p align="center">
-  I combine analytical thinking, technology, and creativity to understand complex problems, design systems, and turn ideas into practical solutions.
+  I combine analysis, technology, and creativity to solve problems and turn ideas into practical solutions.
 </p>
 
 <p align="center">
   <a href="https://github.com/rolandcipher">
     <img src="https://img.shields.io/badge/GitHub-RolandCipher-324F5D?style=for-the-badge&logo=github&logoColor=white&labelColor=07121B" alt="GitHub"/>
   </a>
-  <a href="#02--selected-projects">
+  <a href="#02--projects">
     <img src="https://img.shields.io/badge/Explore-Projects-5089A9?style=for-the-badge&logo=github&logoColor=white&labelColor=07121B" alt="Explore projects"/>
   </a>
 </p>
@@ -33,14 +33,13 @@
 <p align="center">
   <sub>
     <a href="#01--about">About</a> ·
-    <a href="#02--selected-projects">Projects</a> ·
-    <a href="#03--technology-stack">Technology stack</a> ·
-    <a href="#04--technical-interests">Technical interests</a> ·
-    <a href="#05--milestones">Milestones</a> ·
-    <a href="#06--learning-roadmap">Roadmap</a> ·
-    <a href="#07--development-environment">Environment</a> ·
-    <a href="#08--github-activity">Activity</a> ·
-    <a href="#09--connect">Connect</a>
+    <a href="#02--projects">Projects</a> ·
+    <a href="#03--technology">Technology</a> ·
+    <a href="#04--interests">Interests</a> ·
+    <a href="#05--environment">Environment</a> ·
+    <a href="#06--roadmap">Roadmap</a> ·
+    <a href="#07--github-activity">Activity</a> ·
+    <a href="#08--connect">Connect</a>
   </sub>
 </p>
 
@@ -48,59 +47,61 @@
 
 ## 01 — About
 
-I'm an independent technology enthusiast focused on the intersection of analytical thinking, software development, business intelligence, and creative problem-solving.
+I'm an independent technology enthusiast interested in the intersection of analytical thinking, software development, data, and practical problem-solving.
 
-I enjoy exploring how systems work, understanding the relationships between different variables, and using technology to transform complex information into useful tools.
+I enjoy understanding how things work, identifying relationships between different variables, and exploring how technology can be used to solve real-world problems.
 
-My approach goes beyond writing code. I am interested in the entire process:
+My approach is based on a few principles:
 
-- Understanding the problem before choosing the technology.
-- Designing structured and maintainable solutions.
-- Transforming data into meaningful information.
-- Building tools that help people make better decisions.
-- Exploring automation and intelligent systems.
-- Combining technical functionality with thoughtful user experience.
+- Understand the problem before choosing the solution.
+- Analyze information before drawing conclusions.
+- Build practical tools instead of focusing only on theory.
+- Connect different disciplines to find better approaches.
+- Value clarity, functionality, and maintainability.
+- Keep learning through experimentation and independent projects.
 
-I believe that software development, data analysis, and business intelligence are not isolated disciplines. Their greatest potential emerges when they work together.
+I'm particularly interested in the relationship between software, financial analysis, business intelligence, and automation.
 
-### Areas of focus
+I believe technology becomes more valuable when it helps people understand complex situations and make better decisions.
 
-| Domain | Direction |
+### Areas of interest
+
+| Domain | Focus |
 |:---|:---|
-| **Software Development** | Building practical applications and digital tools |
-| **Data Analytics** | Data processing, interpretation and visualization |
+| **Software Development** | Practical applications and digital tools |
+| **Data Analysis** | Information processing, interpretation and visualization |
 | **Financial Modeling** | Financial projections, simulations and scenario analysis |
-| **Business Intelligence** | Converting operational data into actionable insights |
-| **Automation** | Designing more efficient workflows and processes |
-| **Systems Thinking** | Understanding dependencies, architecture and interactions |
-| **Artificial Intelligence** | Exploring AI-assisted workflows and integrations |
+| **Business Intelligence** | Understanding business performance through data |
+| **Automation** | Improving workflows and repetitive processes |
+| **Systems Thinking** | Understanding structures, dependencies and interactions |
+| **Artificial Intelligence** | Exploring practical applications and integrations |
 
 ---
 
-## 02 — Selected Projects
+## 02 — Projects
 
-A growing collection of independent projects, experiments, and practical applications.
+A growing collection of independent projects and technical experiments.
 
-The objective is not simply to build demonstrations, but to develop increasingly complete solutions that combine functionality, analytical depth, and good engineering practices.
+My objective is to develop practical solutions that combine analytical thinking, functionality, and technology.
 
-### 01 · Finance Lab — Financial Simulation & Analysis
+### 01 · Finance Lab
 
-<sub>ACTIVE DEVELOPMENT · PYTHON · STREAMLIT</sub>
+<sub>ACTIVE PROJECT · PYTHON · STREAMLIT</sub>
 
-An interactive financial analysis environment designed to explore business performance, financial projections, and different economic scenarios.
+An interactive financial simulator designed to explore business performance, financial projections, and alternative economic scenarios.
 
-**Project objectives:**
+**Main objectives:**
 
 - Model revenue, costs, expenses and profitability.
 - Analyze cash flow and financial performance.
-- Compare financial scenarios and assumptions.
-- Explore sensitivity analysis and break-even points.
-- Transform financial information into interactive visualizations.
-- Build an accessible interface for financial decision-making.
+- Compare different financial scenarios.
+- Explore break-even points and sensitivity analysis.
+- Present financial information through interactive visualizations.
+- Transform numerical information into useful insights.
 
 **Technology direction:**
 
-`Python` · `Streamlit` · `Pandas` · `NumPy` · `Plotly` · `Financial Modeling`
+`Python` · `Streamlit` · `Pandas` · `NumPy` · `Plotly`
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -109,24 +110,22 @@ An interactive financial analysis environment designed to explore business perfo
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
-**Project status:** Initial prototype and development of the analytical model.
-
-<!-- Add the repository link when the project repository is published. -->
+**Status:** Initial development and expansion of the financial model.
 
 ---
 
-### 02 · Data Intelligence Lab — Data Exploration & Visualization
+### 02 · Data Intelligence
 
-<sub>PLANNED PROJECT · DATA ANALYTICS</sub>
+<sub>FUTURE PROJECT · DATA ANALYSIS · VISUALIZATION</sub>
 
-A collection of analytical experiments focused on extracting information from datasets and presenting findings through meaningful visualizations.
+An exploration of data analysis techniques through practical datasets and interactive visualizations.
 
 **Planned capabilities:**
 
 - Data cleaning and transformation.
 - Exploratory data analysis.
 - Statistical summaries.
-- Interactive dashboards.
+- Data visualization.
 - Trend and pattern identification.
 - Comparative analysis.
 
@@ -138,9 +137,9 @@ A collection of analytical experiments focused on extracting information from da
 
 ### 03 · Business Intelligence Toolkit
 
-<sub>PLANNED PROJECT · BUSINESS ANALYTICS</sub>
+<sub>FUTURE PROJECT · BUSINESS ANALYTICS</sub>
 
-An analytical toolkit exploring how operational, commercial, and financial information can be combined to understand business performance.
+A collection of analytical tools focused on understanding business performance through operational, commercial, and financial information.
 
 **Planned capabilities:**
 
@@ -153,106 +152,106 @@ An analytical toolkit exploring how operational, commercial, and financial infor
 
 **Technology direction:**
 
-`Python` · `SQL` · `Streamlit` · `Data Visualization` · `Business Intelligence`
+`Python` · `SQL` · `Streamlit` · `Data Visualization`
 
 ---
 
-### 04 · Automation & Systems Experiments
+### 04 · Automation & Systems
 
-<sub>ONGOING EXPLORATION · AUTOMATION · SYSTEMS</sub>
+<sub>ONGOING EXPLORATION · LINUX · AUTOMATION</sub>
 
-Practical experiments involving Linux environments, scripts, workflow optimization, application integrations, and system administration.
+Practical experiments involving Linux environments, scripting, workflow optimization, and system configuration.
 
 **Areas of exploration:**
 
-- Linux automation.
+- Linux administration.
 - Shell scripting.
-- Process optimization.
+- Workflow automation.
 - API integrations.
-- Data processing pipelines.
-- System configuration and troubleshooting.
+- System configuration.
+- Networking fundamentals.
+- Technical troubleshooting.
 
 **Technology direction:**
 
-`Linux` · `Debian` · `Bash` · `Python` · `APIs` · `Git`
+`Debian` · `Linux` · `Bash` · `Python` · `Git` · `APIs`
 
 ---
 
-*Additional projects will be introduced as their development progresses.*
+*More projects will be added as development progresses.*
 
 ---
 
-## 03 — Technology Stack
+## 03 — Technology
 
-My technology ecosystem is organized around practical development, analytical tools, and the infrastructure required to build and maintain applications.
+My technical ecosystem is evolving through independent learning, practical experimentation, and project development.
 
-### Core environment
+### Current environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js,sqlite,vscode&perline=5" alt="Python, Linux, Bash, Git, GitHub, HTML, CSS, JavaScript, SQLite and development tools"/>
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,git,github,python,html,css,js,sqlite&perline=5" alt="Linux, Debian, Bash, Git, GitHub, Python, HTML, CSS, JavaScript and SQLite"/>
 </p>
 
-### Active development ecosystem
+### Current project ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,git,github,sqlite&perline=5" alt="Active development technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,sqlite&perline=5" alt="Python, Git, GitHub and SQLite"/>
 </p>
 
-### Extended technology roadmap
+### Technologies to explore
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,fastapi,flask,postgres,docker,redis,mongodb,linux&perline=5" alt="Technologies in the extended learning roadmap"/>
+  <img src="https://skillicons.dev/icons?i=typescript,react,fastapi,flask,postgres,docker,mongodb&perline=5" alt="TypeScript, React, FastAPI, Flask, PostgreSQL, Docker and MongoDB"/>
 </p>
 
 ### Technology domains
 
-| Domain | Technologies and tools |
+| Domain | Technologies and concepts |
 |:---|:---|
 | **Programming** | Python, JavaScript, TypeScript |
-| **Web Development** | HTML5, CSS3, React |
-| **Data Science** | Pandas, NumPy, Matplotlib, Plotly |
+| **Web Development** | HTML, CSS, React |
+| **Data Analysis** | Pandas, NumPy, statistics |
+| **Visualization** | Matplotlib, Plotly |
 | **Application Development** | Streamlit, FastAPI, Flask |
-| **Databases** | SQLite, PostgreSQL, MySQL, MongoDB |
+| **Databases** | SQLite, SQL, PostgreSQL, MySQL |
 | **Operating Systems** | Linux, Debian |
 | **Automation** | Bash, Python scripting |
 | **Version Control** | Git, GitHub |
-| **Infrastructure** | Docker, APIs, deployment workflows |
-| **AI & Integrations** | AI-assisted development, API integrations |
+| **Infrastructure** | Docker, APIs, deployment |
+| **Artificial Intelligence** | AI-assisted development and API integrations |
 
-*This is a combined overview of my current environment, active learning and planned technical direction, not a claim of equal proficiency across every technology.*
+*This section combines my current environment, technologies used in active projects, and areas I intend to explore. It does not imply equal proficiency across all listed technologies.*
 
 ---
 
 ## 04 — Technical Interests
 
-Beyond individual programming languages and frameworks, I am interested in understanding the underlying principles that make technology useful and reliable.
+### Analytical Thinking & Data
 
-### Data & Analytical Engineering
-
-- Data structures and processing.
+- Data interpretation.
 - Exploratory data analysis.
-- Statistical interpretation.
+- Statistical reasoning.
 - Data visualization.
+- Decision-support tools.
 - Analytical workflows.
-- Decision-support systems.
 
-### Financial & Business Intelligence
+### Financial Technology
 
 - Financial modeling.
 - Cash flow analysis.
 - Profitability analysis.
+- Financial projections.
 - Scenario simulation.
-- Performance indicators.
-- Business process analysis.
+- Business performance indicators.
 
-### Software Engineering
+### Software Development
 
 - Application architecture.
 - Modular development.
 - Backend and frontend integration.
 - Database design.
 - API development.
-- Software testing and quality assurance.
+- Software quality and testing.
 
 ### Systems & Infrastructure
 
@@ -261,64 +260,21 @@ Beyond individual programming languages and frameworks, I am interested in under
 - Automation and scripting.
 - Networking fundamentals.
 - Security principles.
-- Deployment and infrastructure management.
+- Deployment and troubleshooting.
 
 ### Artificial Intelligence
 
 - AI-assisted development.
-- API-based AI integrations.
+- API-based integrations.
 - Intelligent automation.
 - Data-driven applications.
-- Practical AI applications.
+- Practical AI use cases.
 
 ---
 
-## 05 — Milestones & Development
+## 05 — Development Environment
 
-A record of practical progress, technical exploration, and project development.
-
-- **Linux Environment:** Configured and maintained a Debian-based working environment using the i3 window manager.
-- **Personal Knowledge System:** Established an Obsidian-based knowledge and planning environment with Calendar, Periodic Notes, Tasks, Kanban and Dataview.
-- **Financial Software:** Started developing an interactive financial simulation application using Python and Streamlit.
-- **Business Intelligence:** Developed an interest in connecting financial analysis, commercial operations and data interpretation.
-- **Digital Projects:** Worked on website structure, HTML customization and visual presentation.
-- **Technical Exploration:** Investigated networking, system security and practical troubleshooting in Linux environments.
-
-*This section will evolve with completed projects, technical achievements, certifications and measurable milestones.*
-
----
-
-## 06 — Learning Roadmap
-
-My development roadmap is intentionally broader than my current toolkit. Each stage is an opportunity to build projects that demonstrate practical understanding rather than simply accumulate technologies.
-
-| Track | Technologies / concepts | Direction |
-|:---|:---|:---|
-| **Programming** | Python, JavaScript, TypeScript | Application development |
-| **Data Analytics** | Pandas, NumPy, statistics | Data interpretation |
-| **Visualization** | Plotly, Matplotlib | Interactive reporting |
-| **Databases** | SQL, PostgreSQL, MySQL | Data architecture |
-| **Backend** | FastAPI, Flask | APIs and services |
-| **Frontend** | HTML, CSS, React | User interfaces |
-| **Automation** | Bash, Python, APIs | Workflow engineering |
-| **Infrastructure** | Docker, Linux, deployment | Application operations |
-| **Software Quality** | Testing, debugging, CI/CD | Reliability |
-| **Security** | Networking, application security | Defensive engineering |
-| **Artificial Intelligence** | AI APIs, integrations | Intelligent applications |
-
-### Long-term direction
-
-Build a versatile technical foundation capable of connecting:
-
-**Software Engineering + Data Analytics + Financial Intelligence + Automation + Artificial Intelligence**
-
-The goal is to develop solutions that are not only technically functional, but also useful, understandable, maintainable, and capable of supporting real decisions.
-
----
-
-## 07 — Development Environment
-
-My current working environment is built around Linux and open-source tools.
+I prefer lightweight environments and tools that offer control over the workflow.
 
 | Component | Environment |
 |:---|:---|
@@ -328,13 +284,39 @@ My current working environment is built around Linux and open-source tools.
 | Version Control | Git / GitHub |
 | Application Development | Python / Streamlit |
 | Documentation | Markdown |
-| Workflow Organization | Tasks, Kanban, Dataview |
+| Organization | Tasks, Kanban, Dataview |
 
-I value lightweight environments, control over the development workflow, and tools that encourage structured thinking.
+I value open-source software, structured workflows, and the ability to understand and customize the tools I use.
 
 ---
 
-## 08 — GitHub Activity
+## 06 — Learning Roadmap
+
+My roadmap is intentionally broader than my current technical environment. The goal is to build a solid foundation through projects that demonstrate practical understanding.
+
+| Track | Technologies / Concepts | Direction |
+|:---|:---|:---|
+| **Programming** | Python, JavaScript, TypeScript | Application development |
+| **Data Analysis** | Pandas, NumPy, statistics | Data interpretation |
+| **Visualization** | Plotly, Matplotlib | Interactive reporting |
+| **Databases** | SQL, PostgreSQL | Data architecture |
+| **Backend** | FastAPI, Flask | APIs and services |
+| **Frontend** | HTML, CSS, React | User interfaces |
+| **Automation** | Bash, Python, APIs | Workflow engineering |
+| **Infrastructure** | Linux, Docker | Deployment and operations |
+| **Software Quality** | Testing, debugging, CI/CD | Reliability |
+| **Security** | Networking, application security | Defensive engineering |
+| **Artificial Intelligence** | AI APIs and integrations | Intelligent applications |
+
+### Long-term direction
+
+**Software Development + Data Analysis + Financial Intelligence + Automation + Artificial Intelligence**
+
+The goal is to build solutions that are not only functional, but also useful, understandable, maintainable, and capable of supporting real decisions.
+
+---
+
+## 07 — GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rolandcipher&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
@@ -351,9 +333,9 @@ I value lightweight environments, control over the development workflow, and too
 
 ---
 
-## 09 — Connect
+## 08 — Connect
 
-I'm interested in connecting with people working across software development, data analysis, business intelligence, financial technology, and applied technology.
+I'm interested in connecting with people working across software development, data analysis, financial technology, business intelligence, and applied technology.
 
 <p align="center">
   <a href="https://github.com/rolandcipher">
